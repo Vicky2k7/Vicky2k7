@@ -1,4 +1,4 @@
-#  About Me
+<h1 style="text-align:center">About Me</h1>
 ---
 -  Program mostly in JavaScript, HTML, and CSS
 -  Currently working on 3d rendering with [https://get.webgl.org/](WebGL)
