@@ -14,6 +14,6 @@ Here are some of my recent projects:
 - **[APP]** [Bubble Sort Visualization](https://github.com/Vicky2k7/Bubble-Sort): A visualization of the bubble sort algorithm using JavaScript and the HTML canvas.
 ---
 ## Get in Touch
-- 📧 [contact@varets.nl]
-- 🌐 [varets.nl](My Website)
+- 📧 contact@varets.nl
+- 🌐 [varets.nl](http://www.varets.nl)
 
