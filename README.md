@@ -12,9 +12,9 @@
 
 Here are some of my recent projects:
 
-- [**Basic WebGL Game Engine**](https://github.com/Vicky2k7/basic-webgl-game-engine): A simple [https://get.webgl.org/](WebGL) game engine built with HTML and JavaScript.
-- [**Magifer**](https://github.com/Vicky2k7/magifer): An clear and readable program to view grades from [https://magister.nl/](Magister).
-- [**Bubble Sort Visualization**](https://github.com/Vicky2k7/Bubble-Sort): A visualization of the bubble sort algorithm using JavaScript and the HTML canvas.
+- **[Project]**[Basic WebGL Game Engine](https://github.com/Vicky2k7/basic-webgl-game-engine): A simple [WebGl](https://get.webgl.org/) game engine built with HTML and JavaScript.
+- **[APP]**[Magifer](https://github.com/Vicky2k7/magifer): An clear and readable program to view grades from [Magister](https://magister.nl/).
+- **[APP]**[Bubble Sort Visualization](https://github.com/Vicky2k7/Bubble-Sort): A visualization of the bubble sort algorithm using JavaScript and the HTML canvas.
 
 ## 📫 Get in Touch
 
