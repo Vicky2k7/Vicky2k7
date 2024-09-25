@@ -1,10 +1,9 @@
-##  About Me
+#  About Me
 ---
 -  Program mostly in JavaScript, HTML, and CSS
 -  Currently working on 3d rendering with [https://get.webgl.org/](WebGL)
 ---
 ##  Technologies & Tools
----
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks**: Electron, Express, Socket.io
 ---
