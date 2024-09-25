@@ -1,7 +1,7 @@
 # About Me
 ---
 -  Program mostly in JavaScript, HTML, and CSS
--  Currently working on 3d rendering with [https://get.webgl.org/](WebGL)
+-  Currently working on 3d rendering with [WebGl](https://get.webgl.org/)
 ---
 ##  Technologies & Tools
 - **Languages**: JavaScript, HTML, CSS
